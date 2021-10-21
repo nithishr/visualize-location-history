@@ -29,6 +29,7 @@ Install the dependencies
 5. Load the GPS data for Cities & Countries into Couchbase using Import feature.
 
    Cities data: [Simplemaps](https://simplemaps.com/data/world-cities) : The 41000 cities data is free.
+
    Countries data: [Country Info](https://github.com/porimol/countryinfo) : It has location data for all countries.
 
 6. Create Indices on Couchbase to fetch the data for cities.
